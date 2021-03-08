@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Advanced Selectors</title>
+    <style>
+        h1 {
+            color: red;
+        }
+
+        h1:hover {
+            color: yellow;
+        }
+
+        p {
+            color: red;
+        }
+
+        h1:hover ~ p {
+            color: yellow;
+        }
+        /* pseudo class- hover,  a-link,hover,visited,active */
+        /* .main:hover p {
+            color: yellow;
+        } */
+
+        a:link {
+            color: red;
+        }
+
+        a:hover {
+            color: yellow;
+        }
+
+        a:active {
+            color: orange;
+        }
+
+        a:visited {
+            color: green;
+        }
+        /* body:first-child b{
+            color: red;
+        } */
+    </style>
+</head>
+
+<body>
+    <h1>Pseudo Classes</h1>
+    <!-- For  anchor tags -->
+    <h1>Test1</h1>
+    <p>Test para</p>
+    <br />
+    <div class="main">
+        <p>Test para</p>
+
+    </div>
+    <br />
+    <a href="#">My Link</a>
+    <br />
+    <a href="test.html">My Link</a>
+
+    <br />
+    <br />
+
+    <b>Hai</b>
+    <b>Hai2</b>
+
+</body>
+
+</html>

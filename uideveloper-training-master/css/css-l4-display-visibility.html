@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        p{
+            font-weight: bold;
+        }
+
+.six{
+    background-color: red;
+    /* display: none; */
+    display:inline;
+    /* margin: 20px;
+    padding: 20px; */
+}
+.second{
+    display: none;
+}
+.fourth{
+    visibility: hidden;
+}
+/*  position - static, relative, absolute */
+
+.imgContainer{
+    background-color: yellow;
+    position: relative;
+    height: 400px;
+}
+.imgContainer img{
+    height: 300px;
+
+    position: absolute;
+    top: 0;
+    left: 100px;
+    z-index: 9999;
+}
+.imgContainer h1{
+    color: red;
+
+    position: absolute;
+    top: 0;
+    left: 100px;
+    z-index: 999;
+}
+    </style>
+</head>
+<body>
+    <h1>Display and Visibility</h1>
+
+    <p class="first">First</p>
+    <p class="second">Second</p>
+    <p  class="third">Third</p>
+    <p  class="fourth">Fourth</p>
+    <p  class="fifth">Fifth</p>
+    <p  class="six">Six</p> salkdfj
+
+    <div class="imgContainer">
+        <h1>Hero</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Mahesh_Babu_in_Spyder_%28cropped%29.jpg" alt="">
+        
+    </div>
+
+</body>
+</html>

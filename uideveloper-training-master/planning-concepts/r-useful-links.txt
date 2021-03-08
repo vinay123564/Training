@@ -1,0 +1,145 @@
+GENERATORS:
+
+1.    Text Content Generator - http://www.lipsum.com
+
+2.    Favicon Generator - http://tools.dynamicdrive.com/favicon
+
+3.    Data Generator - https://mockaroo.com/
+
+4.    Mobile Mockup Generator - https://mockuphone.com
+
+5.    Logo Generator - https://www.logaster.com
+
+6.    UUID Generator - https://www.uuidgenerator.net/
+
+7.    Hash Generator - https://passwordsgenerator.net/sha256-hash-generator/
+
+8.    Ultimate Code Generator - https://webcode.tools/
+
+ 
+
+IMAGE RESOURCES:
+
+1.    Free Stock Images - https://www.pexels.com
+
+2.    Free Stock Images With Great API - https://unsplash.com/
+
+3.    Free- Vectors, mockups - https://www.freepik.com
+
+4.    Dummy Image Placeholders - https://source.unsplash.com/
+
+5.    Dummy Image Placeholders - https://placeholder.com
+
+6.    Free Icons - https://www.iconfinder.com
+
+ 
+
+CODE OPTIMIZATION:
+
+1.    Minify JS & CSS - http://minifier.org
+
+2.    Code Optimization Tools - https://codebeautify.org
+
+3.    Code Diff Checker - https://www.diffchecker.com
+
+ 
+
+CONVERTERS:
+
+1.    ES6+ & JSX Compiler - https://babeljs.io/repl
+
+2.    Sass Converter - https://www.sassmeister.com/
+
+3.    Less Converter & More - http://www.webtoolkitonline.com
+
+4.    Markdown Editor - https://stackedit.io
+
+5.    Jade Converter - http://www.html2jade.org/
+
+ 
+
+IMAGE COMPRESSION:
+
+1.    Compress All Images - https://compressor.io/compress
+
+2.    Compress JPG - http://jpeg-optimizer.com/
+
+3.    Compress PNG - https://tinypng.com/
+
+ 
+
+VALIDATION & COMPATIBILITY:
+
+1.    Validate HTML - https://validator.w3.org
+
+2.    Validate CSS - https://jigsaw.w3.org/css-validator
+
+3.    Check Browser Compatibility - https://caniuse.com/
+
+4.    ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
+
+ 
+
+IN BROWSER CODING:
+
+1.    Client Side Code - https://codepen.io
+
+2.    Client Side Code - https://jsfiddle.net
+
+3.    Client Side Code - http://liveweave.com
+
+4.    Server Side Code - https://repl.it
+
+ 
+
+SNIPPET TOOLS:
+
+1.    Snippet Manager - https://gist.github.com
+
+2.    Snippet Manager - https://pastebin.com
+
+ 
+
+COLOR & DESIGN:
+
+1.    Create Color Schemes - https://color.hailpixel.com
+
+2.    Get Color Schemes of Websites - http://stylifyme.com
+
+3.    Create Gradients - https://uigradients.com
+
+4.    CSS Button Generator - http://css3buttongenerator.com
+
+5.    HTML Entity Lookup - http://entity-lookup.leftlogic.com/
+
+ 
+
+RESPONSIVENESS:
+
+1.    Device Testing - http://www.responsinator.com
+
+2.    What's My Browser Size - https://www.webpagefx.com/tools/whats-my-browser-size/
+
+ 
+
+WIREFRAME:
+
+1.    In Browser Wireframing - https://app.moqups.com
+
+2.    Very Basic In Browser Wireframing - https://wireframe.cc
+
+ 
+
+SPEED TEST:
+
+1.    Speed & Performance Testing - https://tools.keycdn.com/speed
+
+2.    Pingdom Speed Test - https://tools.pingdom.com/
+
+ 
+
+OTHER:
+
+1.    Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
+
+2.    Organized Docs for all Popular Web Technologies - https://devdocs.io

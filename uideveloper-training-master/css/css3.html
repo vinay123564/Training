@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    /* *{
+        color: red;
+    } */
+    /* Descendent selector */
+    .main h1{
+        color: red;
+    }
+    /* .main2 h1{
+        color: green;
+    } */
+    .main2 .test h1{
+        color: green;
+    }
+    .main3.test h1{
+        color: yellow;
+    }
+    .main4 > h1{
+        color: violet;
+    }
+
+
+    /* Adjascent Sybling - only one
+    .main4 + p{
+        color:red;
+    } 
+    */
+
+    /* General Syblings
+    .main4 ~ p{
+        color:red;
+    } 
+    */
+    
+    </style>
+</head>
+<body>
+    <h1>Advanced Selectors</h1>
+    <h1>Universal Selector</h1>
+    <p class="kk">jhgjh</p>
+    <div class="main">
+        <h1>Main Section</h1>
+    </div>
+<!--  -->
+    <div class="main2">
+        <div class="test">
+            <h1>Main Section</h1>
+        </div>
+        <h1>Main Section2</h1>
+    </div>
+
+    <div class="main3 test">
+        <h1>Main3 Section</h1>
+    </div>
+
+    <div class="main4">
+        <h1>Main4 Section</h1>
+        <h1>Main4 Section</h1>
+        <div class="test">
+            <h1>Title</h1>
+        </div>
+    </div>
+    
+    <p>This is paragraph</p>
+    <p>This is paragraph</p>
+   
+
+
+</body>
+</html>

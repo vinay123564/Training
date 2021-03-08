@@ -1,0 +1,114 @@
+UI - UX:
+============
+Aesthics - 2/3 colors
+fonts - 2/3 font families  - css- font
+Balancing of website elements
+object should not distract with each other
+easy to understand
+Simple 
+Images selection - Innovative and large
+Content - importantce
+Mobile friendly
+
+
+Inspiration Site:
+================
+
+Restaurant site: 
+- get basic details form client/owner + Sample site
+- R & D for concept - internal 
+- Dont reveal to our owner and even Collegues
+
+Step 1: For Taking Requirements analysis and type of design needed 
+        codecanyon
+        evanto
+        themeforest
+        dribble - images
+        pininterest - images
+        https://bootstrapmade.com/bootstrap-4-templates/
+
+- most of above are paid
+- Identify what we have like below
+        - title
+        -logo
+        - Images
+        -contacts
+- Identify what we need more info. if any thing need ask Your Manager
+
+Step 2: Find any free templates available to suit your Requirements - for Beginners
+    - Why we need to take template
+        - if you are ui designer , do from scratch
+        - if not, take template and do changes accordingly Because it will take 1 week-1 month for 1 page (If you are not sound in skills)
+
+    Note: Identify you strengths and Do accordings.
+      
+Step 3: If owner is Ok. Buy Paid themes if every thing is OK - proffessional -saves time
+
+
+
+=========================
+Web resources sites - Free, buying
+========================
+
+
+==================================
+Website project - pre-timeschedule Plan, planning , post-timeschedule Plan, wireframing, designing, development
+==================================
+1. pre-timeschedule Plan: 
+    pre-timeschedule Plan: Always double of time needed to decide
+
+ 2.Planning:
+       Time allocation: V.V. Important
+                1. open excel sheet
+                2. write below steps - write duration
+                        - basic R and D
+                        - assets collection
+                        - Others approvals
+                        - Others needed
+                        - page wise and Sections wise time duration
+                        - unexpected modifications
+                3. calculate all and say double it(Think is it real or not, consider even single change)
+
+
+    ** Rules: V.V.Important
+        - Dont over promise and dont under deliver
+        - Dont doubt to ask resoursces if need
+
+
+    2. post-timeschedule Plan: tell
+    3. Full R and D
+    4. Wireframing 
+        - at start if need(Dont do without this, it will take more time)
+        - life saver
+    5. Developement Work - Real work starts here
+    6. Work evaluation - after 25% work
+    7. Work Continuation
+    8. Works division 
+                    - primary, 
+                    - secondary - not take at most
+        - Dont give false promise for third
+    
+    Rule:
+        - DONT OVER PROMISE AND DONT UNDER deliver ***
+        - LESS PROMISE(Give less than expected for promise sake) and deliver more in less time
+
+        - Take 1 task and give deadline and Complete it.
+        Then go another(If any person asks also, just take and tell - i will try when i am free)
+        
+        Dont stop any work by thinking it is simple/hard. Just follow process
+
+
+
+
+
+
+==================================
+website desgnining - company standard
+==================================
+- Try to follow your architecture( if other following some other, please evaluate and go ahead)
+- Master IDE - speed development
+- List Plugins need for your development - speeds development and Install them(But dont tell your spped ness to others just do)
+- 2 monitors for speed work only(- if not, your eyes will go)
+- Proper chair
+- Proper table height
+

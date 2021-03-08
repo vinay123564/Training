@@ -1,0 +1,48 @@
+Media Queries
+==================
+
+Break point
+=====
+width
+
+min-width
+max-width
+
+h1 {
+    color:red;
+}
+@media only screen and (max-width:300)
+{
+    h1 {
+        color:yellow;
+    }
+}
+
+=================
+
+:root{
+    --k:#f00;
+}
+
+var(--k)
+============
+
+text - font
+==========
+color:
+text-align:
+text-decoration:
+text-transform:
+
+X text-spacing-
+----------------------
+line-height
+
+letter-spacing
+word-spacing
+
+font
+==================
+
+font-size:30px;
+font-weight: bold/normal/400;

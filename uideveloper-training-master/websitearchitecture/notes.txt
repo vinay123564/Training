@@ -1,0 +1,25 @@
+
+
+Naming Rules:
+- create project folder
+- project folder name must be in lowercase . Why ?
+- if 2 words, not spaces, only hyphens
+my-project
+- Same naming for files
+
+Folder and File structure:
+
+- my-project F
+    - assets F
+        - css F
+        - img F
+        - js F
+    index.html
+    logo.jpeg - only 1 file
+=============
+    style.css
+
+    - _notes F
+
+
+
